@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=samuchihvg&theme=github-dark" alt="OneBenjiTV profile hero" />
+</p>
 
-<!--
-**SamuchiHVG/SamuchiHVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=samuchihvg&theme=github-dark" alt="About OneBenjiTV" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=samuchihvg&theme=github-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=samuchihvg&theme=github-dark" alt="samuchihvg featured projects" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=samuchihvg&theme=github-dark" alt="samuchihvg social links" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuchihvg)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
